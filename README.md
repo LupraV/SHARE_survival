@@ -1,6 +1,9 @@
 # Too Sick for Working, or Sick of Working?  
 ## Impact of Acute Health Shocks on Early Labour Market Exits
 
+### Abstract
+This case study explores the impact of acute health shocks on early labour market exits among individuals aged 50 and above, leveraging the European SHARE dataset (waves 1-8). Using survival analysis methodologies, including Kaplan-Meier estimators and Cox proportional hazards models, the study examines the influence of acute health shocks and self-perceived health conditions, and other health and socioeconomic factors on early retirement decisions across 28 European countries and Israel. Findings highlight significant gender-specific patterns, with poorer health levels being key drivers of early exits. The results provide insights into policy interventions that may delay early retirements, promoting better health and economic outcomes.
+
 ### Overview
 This repository contains the Stata code and data preparation steps used to investigate the relationship between acute health shocks and early labour market exits among older adults (aged 50+). The study utilises data from the Survey of Health, Ageing, and Retirement in Europe (SHARE - https://share-eric.eu/) and applies survival analysis methods, including Kaplan-Meier estimators and Cox proportional hazards models.
 
